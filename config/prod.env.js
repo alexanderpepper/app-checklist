@@ -1,5 +1,4 @@
 'use strict'
 module.exports = {
-  NODE_ENV: '"production"',
-  assetsPublicPath: '/checklist/'
+  NODE_ENV: '"production"'
 }
