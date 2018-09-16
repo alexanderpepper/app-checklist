@@ -6,13 +6,14 @@ import router from './router'
 import {
   Vuetify,
   VApp,
-  VNavigationDrawer,
-  VFooter,
   VList,
   VBtn,
   VIcon,
   VGrid,
+  VCard,
   VToolbar,
+  VCheckbox,
+  VDialog,
   transitions
 } from 'vuetify'
 import '../node_modules/vuetify/src/stylus/app.styl'
@@ -20,13 +21,14 @@ import '../node_modules/vuetify/src/stylus/app.styl'
 Vue.use(Vuetify, {
   components: {
     VApp,
-    VNavigationDrawer,
-    VFooter,
     VList,
     VBtn,
     VIcon,
     VGrid,
     VToolbar,
+    VCard,
+    VCheckbox,
+    VDialog,
     transitions
   }
 })
