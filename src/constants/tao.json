@@ -4,10 +4,21 @@
       "name": "General",
       "items": [
         {
-          "text": "This is text This is the text 1 This is the text 1 This is the text 1 This is the text 1 This is the text 1"
+          "text": "Ensure all button text uses uppercase letters"
+        }
+      ]
+    },
+    {
+      "name": "Reminders",
+      "items": [
+        {
+          "text": "Ensure that the ratings reminder shows every 8th time the app is launched"
         },
         {
-          "text": "This is text 2 This is the text 1 This is the text 1"
+          "text": "Ensure that the ratings reminder does not show anymore if the user taps 'No Thanks'"
+        },
+        {
+          "text": "Ensure that the ratings reminder shows again later if the user taps 'Remind Me Later'"
         }
       ]
     },
@@ -15,10 +26,13 @@
       "name": "Email Functionality",
       "items": [
         {
-          "text": "This is the text 1 This is the text 1 This is the text 1 This is the text 1 This is the text 1 This is the text 1 This is the text 1"
+          "text": "Ensure email content matches whatever the user is currently viewing"
         },
         {
-          "text": "This is the text 2 This is the text 1 This is the text 1 This is the text 1 This is the text 1 "
+          "text": "Ensure emails for I Ching consultations contain the correct changing lines"
+        },
+        {
+          "text": "Ensure an error alert appears when the user attempts to email without having an email account set up on the device"
         }
       ]
     }
